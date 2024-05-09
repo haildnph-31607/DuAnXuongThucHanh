@@ -1,0 +1,16 @@
+{
+    "name": "fsstudio/autoload",
+    "description": "du an thue vay cuoi",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\":["controller/","ControllerAD/","models"]
+        }
+    },
+    "authors": [
+        {
+            "name": "Le duc ngoc hai"
+        }
+    ],
+    "require": {}
+}

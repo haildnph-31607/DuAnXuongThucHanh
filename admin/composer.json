@@ -1,0 +1,18 @@
+{
+    "name": "fsstudio/admin",
+    "description": "admin du an xuong",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Fsstudio\\Admin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Haildnph31607"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}
